@@ -10,7 +10,7 @@ Kontrollrommet har en konsollapplikasjon som avgjør om en oppskyting kan gjenno
 
 Du skal flytte oppskytingsregelen til en egen modell, teste den og la konsollapplikasjonen bruke modellen.
 
-## Først: forstå begrepet
+## Dette trenger du å vite
 
 Når vi organiserer en applikasjon, ønsker vi å skille mellom forskjellige ansvarsområder.
 

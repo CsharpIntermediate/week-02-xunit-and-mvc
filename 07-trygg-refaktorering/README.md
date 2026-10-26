@@ -10,7 +10,7 @@ Kontrollrommet har en prisberegning som gir riktige resultater, men koden er van
 
 Du skal gjøre koden tydeligere og enklere, og bruke automatiserte tester til å kontrollere at oppførselen er uendret.
 
-## Først: forstå begrepet
+## Dette trenger du å vite
 
 **Refaktorering** betyr å forbedre hvordan koden er skrevet, uten å endre hva den gjør.
 

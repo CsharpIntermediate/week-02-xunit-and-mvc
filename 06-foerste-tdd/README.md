@@ -8,7 +8,7 @@ Et oppdragskort skal kunne markeres som fullført. Klassen `MissionTask` finnes 
 
 Du skal bruke **testdrevet utvikling (TDD)** for å implementere fullføringen.
 
-## Først: forstå begrepet
+## Dette trenger du å vite
 
 TDD står for *Test-Driven Development*, eller testdrevet utvikling.
 

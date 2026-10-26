@@ -6,7 +6,7 @@ I forrige oppgave skrev du flere `[Fact]`-tester for å kontrollere ulike tilfel
 
 En shuttle avviser en setereservasjon som egentlig burde vært godkjent. Du skal bruke tester til å finne feilen og deretter rette den.
 
-## Først: forstå begrepet
+## Dette trenger du å vite
 
 Med `[Fact]` tester du vanligvis ett bestemt tilfelle. Med `[Theory]` kan du kjøre samme testmetode flere ganger med forskjellige inndata.
 

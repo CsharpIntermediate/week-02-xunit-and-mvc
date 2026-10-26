@@ -4,7 +4,7 @@
 
 Romstasjonen trenger pålitelige forsyningsberegninger. Lag forventninger før du kjører programmet.
 
-## Først: forstå begrepet
+## Dette trenger du å vite
 
 Et krav beskriver hva programmet skal gjøre. Når vi skal undersøke om programmet oppfyller kravet, må vi først bestemme hvilket resultat vi forventer for bestemte inndata. Deretter kan vi kjøre programmet og sammenligne forventningen med det faktiske resultatet.
 

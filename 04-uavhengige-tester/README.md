@@ -8,7 +8,7 @@ Et lasterom kan inneholde maksimalt to enheter. Du skal skrive tester som kontro
 
 Du skal også sørge for at **hver test kan kjøres alene**, uten å være avhengig av andre tester.
 
-## Først: forstå begrepet
+## Dette trenger du å vite
 
 Når en metode endrer tilstanden til et objekt, er det ikke alltid nok å kontrollere returverdien. Vi må også undersøke hvordan objektet ser ut etter handlingen.
 

@@ -5,7 +5,7 @@
 I forrige oppgave kjørte du programmet og kontrollerte resultatene selv. Nå skal du skrive tester som gjør denne kontrollen automatisk.
 Du skal lære å bruke **xUnit** til å teste forsyningsberegningen, og se hvordan en test oppdager at noe er feil.
 
-## Først: forstå begrepet
+## Dette trenger du å vite
 
 En **enhetstest** er kode som kontrollerer at en liten del av programmet fungerer som forventet.
 Vi bruker **xUnit** til å kjøre testene. En testmetode merket med `[Fact]` blir gjenkjent som en test av xUnit.

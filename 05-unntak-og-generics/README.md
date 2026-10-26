@@ -10,7 +10,7 @@ Når du prøver å hente noe fra en tom stabel, skal programmet kaste et bestemt
 
 Du skal finne og rette feilen, og skrive tester som kontrollerer både rekkefølgen og tilstanden til stabelen.
 
-## Først: forstå begrepet
+## Dette trenger du å vite
 
 ### Hva er en generisk stabel?
 

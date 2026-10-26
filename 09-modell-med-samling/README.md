@@ -10,7 +10,7 @@ En oppdragstavle skal kunne legge til oppdrag, gi dem egne ID-er og markere best
 
 Du skal **skrive tester og implementere fullføring i modellen**, uten å lage en konsollmeny.
 
-## Først: forstå begrepet
+## Dette trenger du å vite
 
 Når et program håndterer flere objekter, kan vi bruke en samling til å holde oversikt over dem.
 

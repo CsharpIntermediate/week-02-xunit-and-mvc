@@ -10,7 +10,7 @@ Det meste av applikasjonen fungerer allerede. Menyvalget for å fullføre et opp
 
 Du skal implementere `CompleteTask()` i `MissionController` og kontrollere at hele applikasjonen fungerer som forventet.
 
-## Først: forstå begrepet
+## Dette trenger du å vite
 
 I MVC har de tre delene forskjellige ansvar:
 

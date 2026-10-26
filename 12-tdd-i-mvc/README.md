@@ -14,7 +14,7 @@ Bruk TDD (*Red–Green–Refactor*) til å utvikle funksjonaliteten i modellen. 
 
 Målet er å legge til funksjonalitet uten å ødelegge det som allerede fungerer.
 
-## Først: forstå begrepet
+## Dette trenger du å vite
 
 Når vi legger til en ny funksjon i en MVC-applikasjon, kan vi måtte gjøre endringer i flere deler av programmet.
 

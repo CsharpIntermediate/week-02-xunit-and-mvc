@@ -8,7 +8,7 @@ En oppdragstavle skal kunne vise hvilke oppdrag som finnes, og om de venter elle
 
 Du skal implementere `MissionView.ShowTasks()` slik at den presenterer oppdragene i konsollen, **uten å endre dataene i modellen**.
 
-## Først: forstå begrepet
+## Dette trenger du å vite
 
 I MVC (*Model–View–Controller*) har modellen og visningen forskjellige ansvar.
 
